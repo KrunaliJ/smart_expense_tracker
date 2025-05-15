@@ -234,4 +234,13 @@ Summary & export buttons.
 FINAL LINE
 root.mainloop()
 Starts the GUI app and waits for user input.
+* overlook of output:
+  
+  ![Screenshot (11)](https://github.com/user-attachments/assets/196da7a5-6cf4-4739-b833-734eeaf3fd5e)
+  
+  ![Screenshot (14)](https://github.com/user-attachments/assets/d351996a-1424-42d0-85ec-fbcf898be83c)
 
+  ![Screenshot (15)](https://github.com/user-attachments/assets/cd38aba0-8285-43a7-b924-5dbea4365bec)
+
+
+  
